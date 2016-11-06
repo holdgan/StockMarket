@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/c_allbackgroud">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/m_48">
+
+        <View
+            android:id="@+id/ui_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:layout_width="@dimen/m_48"
+            android:layout_alignParentRight="true"
+            android:src="@mipmap/ic_launcher"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/c_allbackgroud"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/m_10"
+                android:paddingTop="@dimen/m_10">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:padding="@dimen/m_5">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/market_optional" />
+
+                    <TextView
+                        android:id="@+id/tv_market_optional_all"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:background="@color/white"
+                        android:text="@string/view_all" />
+                </RelativeLayout>
+
+                <com.meetme.android.horizontallistview.HorizontalListView
+                    android:id="@+id/hlv_market_optional"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/m_95"
+                    android:background="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/c_allbackgroud"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/m_10"
+                android:paddingTop="@dimen/m_10">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:padding="@dimen/m_5">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/market_grail" />
+
+                    <TextView
+                        android:id="@+id/tv_market_grail_all"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:background="@color/white"
+                        android:text="@string/view_all" />
+                </RelativeLayout>
+
+
+                <com.meetme.android.horizontallistview.HorizontalListView
+                    android:id="@+id/hlv_market_grail"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/m_95"
+
+                    android:background="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/c_allbackgroud"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/m_10"
+                android:paddingTop="@dimen/m_10">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:padding="@dimen/m_10">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/market_plate" />
+
+                    <TextView
+                        android:id="@+id/tv_market_plate_all"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:background="@color/white"
+                        android:text="@string/view_all" />
+                </RelativeLayout>
+
+                <com.meetme.android.horizontallistview.HorizontalListView
+                    android:id="@+id/hlv_market_plate"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/m_95"
+                    android:background="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/c_allbackgroud"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/m_10"
+                android:paddingTop="@dimen/m_10">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:padding="@dimen/m_5">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/market_hotspot" />
+
+                    <TextView
+                        android:id="@+id/tv_market_hotspot_all"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:background="@color/white"
+                        android:text="@string/view_all" />
+                </RelativeLayout>
+
+                <com.meetme.android.horizontallistview.HorizontalListView
+                    android:id="@+id/hlv_market_hotspot"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/m_95"
+
+                    android:background="@color/white" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/c_allbackgroud"
+                android:orientation="vertical"
+                android:paddingTop="@dimen/m_10">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:padding="@dimen/m_5">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/market_stock" />
+
+                    <TextView
+                        android:id="@+id/tv_market_stock_all"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:background="@color/white"
+                        android:text="@string/view_all" />
+                </RelativeLayout>
+
+                <com.meetme.android.horizontallistview.HorizontalListView
+                    android:id="@+id/hlv_market_stock"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/m_95"
+                    android:background="@color/white" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

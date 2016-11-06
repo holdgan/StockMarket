@@ -1,0 +1,3 @@
+include ':app',':androidHorizontalListView'
+include ':MPChartLib'
+include ':library'

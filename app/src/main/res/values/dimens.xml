@@ -1,0 +1,116 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="m_1">2px</dimen>
+    <dimen name="m_2">2dp</dimen>
+    <dimen name="m_3">3dp</dimen>
+    <dimen name="m_4">4dp</dimen>
+    <dimen name="m_5">5dp</dimen>
+    <dimen name="m_7">7dp</dimen>
+    <dimen name="m_10">10dp</dimen>
+    <dimen name="m_12">12dp</dimen>
+    <dimen name="m_15">15dp</dimen>
+    <dimen name="m_16">16dp</dimen>
+    <dimen name="m_20">20dp</dimen>
+    <dimen name="m_24">24dp</dimen>
+    <dimen name="m_25">25dp</dimen>
+    <dimen name="m_28">28dp</dimen>
+    <dimen name="m_30">30dp</dimen>
+    <dimen name="m_35">35dp</dimen>
+    <dimen name="m_40">40dp</dimen>
+    <dimen name="m_42">42dp</dimen>
+    <dimen name="m_45">45dp</dimen>
+    <dimen name="m_48">48dp</dimen>
+    <dimen name="m_50">50dp</dimen>
+    <dimen name="m_53">53dp</dimen>
+    <dimen name="m_56">56dp</dimen>
+    <dimen name="m_60">60dp</dimen>
+    <dimen name="m_66">66dp</dimen>
+    <dimen name="m_70">70dp</dimen>
+    <dimen name="m_75">75dp</dimen>
+    <dimen name="m_80">80dp</dimen>
+    <dimen name="m_84">84dp</dimen>
+    <dimen name="m_88">88dp</dimen>
+    <dimen name="m_95">95dp</dimen>
+    <dimen name="m_100">100dp</dimen>
+    <dimen name="m_115">115dp</dimen>
+    <dimen name="m_130">130dp</dimen>
+    <dimen name="m_140">140dp</dimen>
+    <dimen name="m_150">150dp</dimen>
+    <dimen name="m_160">160dp</dimen>
+    <dimen name="m_180">180dp</dimen>
+    <dimen name="m_200">200dp</dimen>
+    <dimen name="m_224">224dp</dimen>
+    <dimen name="m_230">230dp</dimen>
+    <dimen name="m_250">250dp</dimen>
+    <dimen name="m_280">280dp</dimen>
+
+
+    <!--  -->
+    <dimen name="t_8">8sp</dimen>
+    <dimen name="t_10">10sp</dimen>
+    <dimen name="t_11">11sp</dimen>
+    <dimen name="t_12">12sp</dimen>
+    <dimen name="t_14">14sp</dimen>
+    <dimen name="t_16">16sp</dimen>
+    <dimen name="t_18">18sp</dimen>
+    <dimen name="t_20">20sp</dimen>
+    <dimen name="t_22">22sp</dimen>
+    <dimen name="t_30">30sp</dimen>
+    <dimen name="t_40">40sp</dimen>
+
+
+    <!--
+    <dimen name="top_textsize">24sp</dimen>
+    <dimen name="padding_left_size">40dp</dimen>
+    <dimen name="padding_right_size">40dp</dimen>
+    <dimen name="edittext_height_size">55dp</dimen>
+    <dimen name="btn_text_size">18sp</dimen>
+    <dimen name="edittext_size">15sp</dimen>
+    <dimen name="edittext2_size">12sp</dimen>
+    <dimen name="edittext_padding_left_size">20dp</dimen>
+    <dimen name="edittext_padding_right_size">20dp</dimen>
+    <dimen name="choice_btn_width_size">40dp</dimen>
+    <dimen name="choice_btn_height_size">40dp</dimen>
+    <dimen name="btn_margin_top_size">7dp</dimen>
+    <dimen name="my_basic_infomation_text_size">17sp</dimen>
+    <dimen name="my_basic_infomation_text_hint">16sp</dimen>
+    <dimen name="btn_height_size">55dp</dimen>
+    <dimen name="btn_padding_size">5dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">25dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">10dp</dimen>
+    <dimen name="header_footer_internal_padding">20dp</dimen>
+    <dimen name="room_list_item">13sp</dimen>
+    <dimen name="detail_list_size">16sp</dimen>
+    <dimen name="pay_money_size">15sp</dimen>
+    <dimen name="tc_detail">18sp</dimen>
+    <dimen name="height_top_bar">46dp</dimen>
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="size_avatar">50dp</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+    <dimen name="joined_list_statesize">16sp</dimen>
+
+
+
+
+
+
+
+
+    -->
+
+</resources>

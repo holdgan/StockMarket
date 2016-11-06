@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_35f94a42d1bdcbbfa03e22a0f9295431c4854422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_98953a20de91b10d40df5a7a6a36f53d2c2a5c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_164b72cc2e9d0a5bdc1aed571a14d306ad1ed5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_d0fa97d8109bb4636396cb0c9228cf9223290435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_95289984ee042292cef00674eeaea2def6785553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7a9e9cfd0ae02267a322f787306d88d556ef86a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_7585965d40a92feccad9f39de534476b99876662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_bbf09a94aeec084b49e4459fa56fdf98d6987f5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_de8c7c9704c75b66e1b3fcb86f2d51fc38cf9c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.solidfire.code.gson/gson/2.6.2/392ebfc2a558b7ef9c905d49957dfd6f89f003d8/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="392ebfc2a558b7ef9c905d49957dfd6f89f003d8">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/gson-2.6.2_0b7cc3a67853487c7ad002dbe8c3ecda2d2d979b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_0f68e5972641f04c2033a1f3ef1409458191169b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_a887dbac37aadbdb8ffe8c662ef5fe64894773fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0_6dbdf58d3fa34b352b7fc7865aa612c5f0d6ab9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_2e0b61df48af01c1eb00bb8fdc92fab7a737fdf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.2.0_10c26a4c56c1aed1eb60e3fa369dfdd190b7d759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_36c9b10ba53c8d406d26bacd15b7ae7acafaed84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.2/de8416eda7b2fd7c25836b140c39e1cbf10542f6/dagger-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/dagger-2.0.2_b691a2a51ce2e84a4dfa26986c9f0939ff79c593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_20b20790f387fa2107b277260bb193607987e999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fe9f5803fb452af1065f7f6e23098a732c0e4b6a">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/instant-run_ac8fe1283726e9e80bba1d6602566c725b70c4d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.3/5a1aef6a9d56efb473b8be6b66689077e7317c45/rxjava-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a1aef6a9d56efb473b8be6b66689077e7317c45">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/rxjava-1.1.3_fec8c5c6f7af66d5b3bec05711e4cc6190dc77df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/okio-1.6.0_62b452b8952de0684291105ede8db6fa3133c5da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4884f842e96953de228f8a49501386a361f2e085">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_dec9c45b641a546bacf7d530ef81bb331f47aafd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/javax.inject-1_552e549d63c3dc504a3525c2559302e138f35355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.1/27293c440d2085cde1d859528aff6e7d3b6ae40/retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/retrofit-2.0.1_d8c0290ba1635dc9790f9e19faa91a106a84bbcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_26fe7112ed46c1c4d4cf7a81696203aa26364ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.1/b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635/haha-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/haha-1.1_f12db5092ac083b0882816c9acc55f3c21d2769e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_ff6c4b26601443e85c4491364341182af40a6d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eb2ff6fde865d89cd04469b2a0a21cff6a863899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/okhttp-2.7.2_dab150862f15e843f2ebfc1401eedfb2392fc1ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f4e7adebf49e683db82fb6efac2caaf3d768b8d4">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.3_cdc914cdc0f500262eb8a283b63491fd5957d111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_1eef024f42846f136442d3325a84a37a3ed29055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_02bef905dc500f70e0956b4412b944674b97d4b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3/632482a61ad24b7ec864072945d221369f9a606/leakcanary-watcher-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0632482a61ad24b7ec864072945d221369f9a606">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3_da3f1edb7c1856d8f25c1a6b92df7b0b3660a6fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/gson-2.6.2_84afd7c3ad8df99d89e8a85a17e499af8b654fac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0dd939c0d34936dbc0720542cdf8ee2c6a1a51f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3/c5399b18a672f7973c8a9b9d6b731a3a36e590cc/leakcanary-analyzer-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5399b18a672f7973c8a9b9d6b731a3a36e590cc">
+        <dex dex="/Users/sun/Code/sss/stock-quotation/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3_918eda2ec567f7cac64d841d15ecbac0c98d2041.jar" />
+    </item>
+
+</items>

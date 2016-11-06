@@ -1,0 +1,129 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/m_48"
+    android:background="@color/c_orange">
+
+    <LinearLayout
+        android:id="@+id/ll_top_left"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/im_top_left"
+            android:layout_width="@dimen/m_16"
+            android:layout_height="@dimen/m_16"
+            android:layout_marginLeft="@dimen/m_15"
+            android:layout_marginRight="@dimen/m_15"
+            android:src="@mipmap/icon_top_back" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_top"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/ll_top_left"
+        android:gravity="center"
+        android:textColor="@color/c_titletext"
+        android:textSize="@dimen/t_18" />
+
+    <TextView
+        android:id="@+id/tv_top_share_name"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/m_24"
+        android:layout_toRightOf="@+id/ll_top_left"
+        android:gravity="center|bottom"
+        android:textColor="@color/c_titletext"
+        android:textSize="@dimen/t_18" />
+
+    <TextView
+        android:id="@+id/tv_top_share_code"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/m_24"
+        android:layout_below="@+id/tv_top_share_name"
+        android:layout_toRightOf="@+id/ll_top_left"
+        android:gravity="center|top"
+        android:textColor="@color/c_titletext"
+        android:textSize="@dimen/t_18" />
+
+    <LinearLayout
+        android:id="@+id/ll_top_right_next"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/ll_top_right"
+        android:visibility="gone"
+        android:layout_toStartOf="@+id/ll_top_right"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/im_top_right_next"
+            android:layout_width="@dimen/m_16"
+            android:layout_height="@dimen/m_16"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginLeft="@dimen/m_15"
+            android:layout_marginRight="@dimen/m_15" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_top_right"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/im_top_right"
+            android:layout_width="@dimen/m_16"
+            android:layout_height="@dimen/m_16"
+            android:layout_marginLeft="@dimen/m_15"
+            android:layout_marginRight="@dimen/m_15" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_top_share_follow"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/m_15"
+        android:gravity="center"
+        android:text="已关注"
+        android:textColor="@color/c_999"
+        android:textSize="@dimen/t_18"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/ll_top_share_nofollow"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@+id/ui_0"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="@dimen/m_16"
+                android:layout_height="@dimen/m_16"
+                android:layout_marginLeft="@dimen/m_15"
+                android:layout_marginRight="@dimen/m_15"
+                android:src="@mipmap/ic_launcher" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/ui_0"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/m_15"
+            android:gravity="center"
+            android:text="关注"
+            android:textColor="@color/c_333"
+            android:textSize="@dimen/t_18" />
+    </LinearLayout>
+
+</RelativeLayout>

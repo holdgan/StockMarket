@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">stock-quotation</string>
+    <string name="view_all">查看全部</string>
+    <!--market-->
+    <string name="market_optional">自选股行情</string>
+    <string name="market_grail">大盘行情</string>
+    <string name="market_plate">板块行情</string>
+    <string name="market_hotspot">热点行情</string>
+    <string name="market_stock">个股行情</string>
+    <!--list-->
+    <string name="optional">自选股</string>
+    <string name="stock">个股</string>
+    <string name="plate">板块</string>
+
+
+    <string-array name="jazz_artist_names">
+        <item>复星国际\n312321</item>
+        <item>中国电影\n897897</item>
+        <item>东方财富\n566547</item>
+        <item>复星国际\n312321</item>
+        <item>中国电影\n897897</item>
+        <item>东方财富\n566547</item>
+        <item>复星国际\n312321</item>
+        <item>中国电影\n897897</item>
+        <item>东方财富\n566547</item>
+        <item>复星国际\n312321</item>
+        <item>中国电影\n897897</item>
+        <item>东方财富\n566547</item>
+        <item>复星国际\n312321</item>
+        <item>中国电影\n897897</item>
+        <item>东方财富\n566547</item>
+    </string-array>
+</resources>
