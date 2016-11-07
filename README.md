@@ -1,2 +1,2 @@
 # StockMarket
-Android   股票  行情模块
+Android   股票  demo
